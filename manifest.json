@@ -1,0 +1,14 @@
+{
+    "manifest_version":2,
+    "name":"Fionnuar",
+    "version":"1.0",
+    "description":"This is a simple Chrome extension for accesing Codeforces Virtual contest easily",
+    "icons":{
+        "32": "Fionnuar-logos_transparent.png",
+      "48": "Fionnuar-logos_white.png",
+      "16": "Fionnuar-logos_black.png"
+    },"browser_action": {
+        "default_icon":"Fionnuar-logos_transparent.png",
+        "default_popup": "index.html"
+      }
+}
